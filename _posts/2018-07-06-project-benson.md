@@ -43,7 +43,7 @@ In the end our group recommended the following
 
 ## Final Thought
 
-This project was a great welcome into the world of data science. I walked away from this project with a much better understanding of what it might be like to actually work for an organization as a data scientist and it is very cool!
+This project was a great introduction to the world of data science. I walked away from this project with a much better understanding of what it might be like to actually work for an organization as a data scientist and it is very cool!
 
 Thanks to my team: Belle, Tarek and Irene!
 
