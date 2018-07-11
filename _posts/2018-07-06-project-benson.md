@@ -22,15 +22,16 @@ We primarily used the pandas and numpy modules to conduct our analysis. It was a
 
 Below are the top 10 results we obtained from our MTA data analysis. We defintley wanted our conclusions to be amongst these 10 stations.
 
-![image-20180710213945216](/Users/harmsway/Documents/Metis_Blogs/metis_blog/_posts/mtagraphs.png)
+![image-20180710213945216](https://github.com/harm8717/harm8717.github.io/blob/master/_posts/mtagraphs.png?raw=true)
 
 Below is the summary of the US Census data we analyzed. We also wanted to consider these neighborhood demographics when making a decision. 
 
+![Demogrphaics](https://github.com/harm8717/harm8717.github.io/blob/master/_posts/demographics.png?raw=true)
 
 
 Below are the results we pulled from the Yelp API. This summarizes the zip codes with the highest number of popular restaurants. We also wanted to consider these data as a additional feature to consider when doing targeted marketing.
 
-![image-20180710214448697](/Users/harmsway/Documents/Metis_Blogs/metis_blog/_posts/image-20180710214448697.png)
+![image-20180710214448697](https://github.com/harm8717/harm8717.github.io/blob/master/_posts/image-20180710214448697.png?raw=true)
 
 ## Conclusion
 
