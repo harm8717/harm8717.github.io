@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Harmeet's GitHub Blog
-tagline:             Data Science Blog
+title:               Harmeet's Data Science Blog
+tagline:             Industrial Engineer turned Data Scientist
 url:                 http://harm8717.github.io/
 paginate:            2
 baseurl:             ""
