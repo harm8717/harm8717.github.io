@@ -4,7 +4,7 @@ ayout: post
 title: Week 1 of Bootcamp in the Books - Project Benson
 ---
 
-The first week of being a Metis student and a west coaster was exhilaring to saythe least! We hit the ground running right from day one. We completed our first project of the program, Project Benson. This had to do with analyzing MTA subway data. 
+The first week of being a Metis student and a west coaster was exhilirating to say the least! We hit the ground running right from day one. We completed our first project of the program, Project Benson. This had to do with analyzing MTA subway data. 
 
 ## The Problem
 
